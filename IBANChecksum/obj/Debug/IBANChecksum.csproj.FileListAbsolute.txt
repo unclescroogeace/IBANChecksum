@@ -1,0 +1,9 @@
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\bin\Debug\IBANChecksum.exe.config
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\bin\Debug\IBANChecksum.exe
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\bin\Debug\IBANChecksum.pdb
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\obj\Debug\IBANChecksum.csprojResolveAssemblyReference.cache
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\obj\Debug\IBANChecksum.Form1.resources
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\obj\Debug\IBANChecksum.Properties.Resources.resources
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\obj\Debug\IBANChecksum.csproj.GenerateResource.Cache
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\obj\Debug\IBANChecksum.exe
+c:\users\uncle\documents\visual studio 2015\Projects\IBANChecksum\IBANChecksum\obj\Debug\IBANChecksum.pdb
